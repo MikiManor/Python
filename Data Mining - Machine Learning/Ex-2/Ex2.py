@@ -23,7 +23,7 @@ class OneAndTwo(object):
 
 if __name__ == "__main__":
     OneAndTwo = OneAndTwo()
-    csvFileName = 'C:\\Users\\mmanor\\PycharmProjects\\DataMining\\Ex2File.csv'
+    csvFileName = 'Ex2File.csv'
     data_read = OneAndTwo.ReadCsv(csvFileName)
     print("The content of the csv file is :\n")
     print(data_read)
