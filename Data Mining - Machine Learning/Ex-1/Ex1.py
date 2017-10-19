@@ -1,7 +1,3 @@
-# Ex #1
-# Miki Manor - 310962212
-# Peter Zubkov - 310658984
-
 import random
 
 class Roulette(object):
